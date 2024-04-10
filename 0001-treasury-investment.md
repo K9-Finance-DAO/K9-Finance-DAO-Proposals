@@ -85,8 +85,8 @@ Here is an approximate breakdown of the DAO's treasury assets (excluding KNINE t
 | Stablecoins           | $450,000     | 45%           |
 | Other (BONE and SHIB) | $100,000     | 10%           |
 
-> [!NOTE] View the DAO's treasury wallet here: 
-> [*DeBank: **k9safe.eth***](https://debank.com/profile/0xDA4Df6E2121eDaB7c33Ed7FE0f109350939eDA84)
+> [!NOTE] 
+> View the DAO's treasury wallet here: [*DeBank: **k9safe.eth***](https://debank.com/profile/0xDA4Df6E2121eDaB7c33Ed7FE0f109350939eDA84)
 
 
 ## Risk Appetite
@@ -214,10 +214,12 @@ TODO: add summary table
 
 For a detailed breakdown of the full investment allocation breakdown, historical yields from the proposed strategies, and projected yields for the DAO's treasury, please refer to the financial projections in this [Google Sheet](https://docs.google.com/spreadsheets/d/1yLlyyslOnAoQTEB_AELtvH69duklo5RpWjmbS_910NU/edit?usp=sharing). 
 
-> [!WARNING] These projections are based on current market conditions and historical data. Actual returns will vary based on future market conditions, the performance of the DeFi protocols used, and other unforeseen circumstances.
+> [!WARNING] 
+> These projections are based on current market conditions and historical data. Actual returns will vary based on future market conditions, the performance of the DeFi protocols used, and other unforeseen circumstances.
 
 
-> [!IMPORTANT] The DAO must regularly review and adjust its treasury investment strategies based on changing market conditions and the performance of the strategies.
+> [!IMPORTANT] 
+> The DAO must regularly review and adjust its treasury investment strategies based on changing market conditions and the performance of the strategies.
 
 
 
