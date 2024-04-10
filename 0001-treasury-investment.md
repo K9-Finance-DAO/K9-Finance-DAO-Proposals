@@ -212,7 +212,7 @@ Phase 2
 # Financial Projections
 TODO: add summary table
 
-For a detailed breakdown of the full investment allocation breakdown, historical yields from the proposed strategies, and projected yields for the DAO's treasury, please refer to the financial projections in this [Google Sheet](https://docs.google.com/spreadsheets/d/1yLlyyslOnAoQTEB_AELtvH69duklo5RpWjmbS_910NU/edit?usp=sharing). 
+For a detailed breakdown of the full investment allocation breakdown, historical yields from the proposed strategies, and projected yields for the DAO's treasury, please refer to the [Financial Projections Google Sheet](https://docs.google.com/spreadsheets/d/1yLlyyslOnAoQTEB_AELtvH69duklo5RpWjmbS_910NU/edit?usp=sharing). 
 
 > [!WARNING] 
 > These projections are based on current market conditions and historical data. Actual returns will vary based on future market conditions, the performance of the DeFi protocols used, and other unforeseen circumstances.
