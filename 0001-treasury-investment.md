@@ -38,23 +38,6 @@ TODO: complete this last.
   - [Investment Philosophy](#investment-philosophy)
 - [Conclusion](#conclusion)
 - [Appendices](#appendices)
-  - [DeFi Protocols](#defi-protocols)
-  - [Background on K9 Finance DAO](#background-on-k9-finance-dao)
-- [Outline](#outline-1)
-- [Outline 2](#outline-2)
-  - [Include any additional data, analyses, or references that support the proposal.](#include-any-additional-data-analyses-or-references-that-support-the-proposal)
-  - [Short Term](#short-term)
-  - [Long Term](#long-term)
-- [Investment Philosophy](#investment-philosophy-1)
-  - [Risks](#risks)
-  - [Investment Risk Profile](#investment-risk-profile)
-- [Evaluation](#evaluation)
-  - [KPI Tracking](#kpi-tracking)
-  - [Risks](#risks-1)
-- [Recommended Approach](#recommended-approach)
-  - [Stablecoins](#stablecoins)
-- [Links](#links)
-- [Junk](#junk)
 
 
 
@@ -260,7 +243,7 @@ TODO
 
 [^1^][1]: Governance Forum Discussion [K9 Treasury Investment Philosophy](https://forum.k9finance.com/)
 
-
+<!-- 
 ## DeFi Protocols
 
 - [Curve Finance](https://curve.fi/): a decentralized exchange optimized for stablecoin trading, offering low slippage and low fees. The DAO will provide liquidity to Curve's stablecoin pools to earn trading fees.
@@ -470,4 +453,4 @@ Requirements for Treasury Plan Proposal:
 
    The DAO's mission and values can also help determine the risk tolerance for the treasury. For example, if the DAO is risk-averse, the treasury may prioritize low-risk, stable yield-generating assets. If the DAO is more risk-tolerant, it may be more open to higher-risk, higher-reward strategies.
 
-   Overall, the DAO's mission and values should guide the treasury investment strategy to ensure that it aligns with the DAO's goals and objectives.
+   Overall, the DAO's mission and values should guide the treasury investment strategy to ensure that it aligns with the DAO's goals and objectives. -->
