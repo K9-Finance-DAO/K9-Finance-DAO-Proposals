@@ -243,34 +243,33 @@ TODO
 
 [^1^][1]: Governance Forum Discussion [K9 Treasury Investment Philosophy](https://forum.k9finance.com/)
 
-<!-- 
-## DeFi Protocols
 
-- [Curve Finance](https://curve.fi/): a decentralized exchange optimized for stablecoin trading, offering low slippage and low fees. The DAO will provide liquidity to Curve's stablecoin pools to earn trading fees.
-- [Balancer](https://balancer.finance/): an automated portfolio manager and liquidity provider that allows users to create custom liquidity pools. The DAO will provide liquidity to Balancer pools to earn trading fees.
-- [Uniswap](https://uniswap.org/): a decentralized exchange that allows users to swap tokens and provide liquidity to pools. The DAO will provide liquidity to Uniswap pools to earn trading fees.
-- [Aave](https://aave.com/): a decentralized money market protocol that allows users to lend and borrow assets. The DAO will lend stablecoins on Aave to earn interest.
-- [Compound](https://compound.finance/): a decentralized money market protocol that allows users to lend and borrow assets. The DAO will lend stablecoins on Compound to earn interest.
-- [Yearn Finance](https://yearn.finance/): a decentralized yield aggregator that automatically moves funds between DeFi protocols to maximize yield. The DAO will use Yearn's strategies to optimize yield generation.
-- [Convex Finance](https://convexfinance.com/): a decentralized platform that allows users to stake LP tokens to earn additional yield. The DAO will stake LP tokens on Convex to earn additional yield.
-- [Aura](https://aura.fi/): a decentralized platform that allows users to stake LP tokens to earn additional yield. The DAO will stake LP tokens on Aura to earn additional yield.
-- [Lido](https://lido.fi/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Lido to earn staking rewards.
-- [Staked](https://staked.us/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Staked to earn staking rewards.
-- [Rocket Pool](https://rocketpool.net/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Rocket Pool to earn staking rewards.
-- [StakeWise](https://stakewise.io/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on StakeWise to earn staking rewards.
-- [Liquity](https://liquity.org/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Liquity to earn yield.
-- [Alchemix](https://alchemix.fi/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Alchemix to earn yield.
-- [Cream Finance](https://cream.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Cream to earn yield.
-- [Alpha Homora](https://homora.alphafinance.io/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Alpha Homora to earn yield.
-- [Badger Finance](https://badger.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Badger to earn yield.
-- [Harvest Finance](https://harvest.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Harvest to earn yield.
-- [SushiSwap](https://sushi.com/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on SushiSwap to earn yield.
-- [Pickle Finance](https://pickle.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Pickle to earn yield.
-- [BarnBridge](https://barnbridge.com/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on BarnBridge to earn yield.
-- [Rari Capital](https://rari.capital/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Rari Capital to earn yield.
-- [Yield Protocol](https://yield.is/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Yield Protocol to earn yield.
-- 
+      ## DeFi Protocols
 
+      - [Curve Finance](https://curve.fi/): a decentralized exchange optimized for stablecoin trading, offering low slippage and low fees. The DAO will provide liquidity to Curve's stablecoin pools to earn trading fees.
+      - [Balancer](https://balancer.finance/): an automated portfolio manager and liquidity provider that allows users to create custom liquidity pools. The DAO will provide liquidity to Balancer pools to earn trading fees.
+      - [Uniswap](https://uniswap.org/): a decentralized exchange that allows users to swap tokens and provide liquidity to pools. The DAO will provide liquidity to Uniswap pools to earn trading fees.
+      - [Aave](https://aave.com/): a decentralized money market protocol that allows users to lend and borrow assets. The DAO will lend stablecoins on Aave to earn interest.
+      - [Compound](https://compound.finance/): a decentralized money market protocol that allows users to lend and borrow assets. The DAO will lend stablecoins on Compound to earn interest.
+      - [Yearn Finance](https://yearn.finance/): a decentralized yield aggregator that automatically moves funds between DeFi protocols to maximize yield. The DAO will use Yearn's strategies to optimize yield generation.
+      - [Convex Finance](https://convexfinance.com/): a decentralized platform that allows users to stake LP tokens to earn additional yield. The DAO will stake LP tokens on Convex to earn additional yield.
+      - [Aura](https://aura.fi/): a decentralized platform that allows users to stake LP tokens to earn additional yield. The DAO will stake LP tokens on Aura to earn additional yield.
+      - [Lido](https://lido.fi/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Lido to earn staking rewards.
+      - [Staked](https://staked.us/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Staked to earn staking rewards.
+      - [Rocket Pool](https://rocketpool.net/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on Rocket Pool to earn staking rewards.
+      - [StakeWise](https://stakewise.io/): a decentralized liquid staking protocol that allows users to stake ETH and earn staking rewards. The DAO will stake ETH on StakeWise to earn staking rewards.
+      - [Liquity](https://liquity.org/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Liquity to earn yield.
+      - [Alchemix](https://alchemix.fi/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Alchemix to earn yield.
+      - [Cream Finance](https://cream.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Cream to earn yield.
+      - [Alpha Homora](https://homora.alphafinance.io/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Alpha Homora to earn yield.
+      - [Badger Finance](https://badger.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Badger to earn yield.
+      - [Harvest Finance](https://harvest.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Harvest to earn yield.
+      - [SushiSwap](https://sushi.com/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on SushiSwap to earn yield.
+      - [Pickle Finance](https://pickle.finance/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Pickle to earn yield.
+      - [BarnBridge](https://barnbridge.com/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on BarnBridge to earn yield.
+      - [Rari Capital](https://rari.capital/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Rari Capital to earn yield.
+      - [Yield Protocol](https://yield.is/): a decentralized borrowing protocol that allows users to borrow stablecoins against their ETH collateral. The DAO will borrow stablecoins on Yield Protocol to earn yield.
+      - 
 
 
 
@@ -279,178 +278,179 @@ TODO
 
 
 
-1. **DAO's Mission and Values**:
 
-   1. Generate passive yield on the DAO's treasury assets through DeFi strategies.
-   2. Align with the K9 Finance DAO brand story: "liquid staking derivatives" with a focus on Lido.
-   3. Create risk profile and reduce risk.
-   4. Grow the Shibarium ecosystem, attract users and TVL, promote the growth of DeFi on Shibarium, and help grow value for the BONE token, SHIB token, and DeFi protocols on Shibarium.
+      1. **DAO's Mission and Values**:
 
-   ## Background on K9 Finance DAO
-   The DAO's core product is a Liquid Staking Derivative of the BONE token: **knBONE**. BONE is the primary token, powering the Shibarium blockchain. Shibarium is an Ethereum Layer 2 blockchain that is fully compatible with Ethereum. BONE is used as the gas token to pay for Shibarium transactions, as well as used to secure the proof-of-stake (PoS) network through validator staking and delegation.
+         1. Generate passive yield on the DAO's treasury assets through DeFi strategies.
+         2. Align with the K9 Finance DAO brand story: "liquid staking derivatives" with a focus on Lido.
+         3. Create risk profile and reduce risk.
+         4. Grow the Shibarium ecosystem, attract users and TVL, promote the growth of DeFi on Shibarium, and help grow value for the BONE token, SHIB token, and DeFi protocols on Shibarium.
 
-   Liquid staking derivatives have become a core foundational element of the DeFi ecosystem and are a fundamental element for modern PoS blockchains. They unlock liquidity, creating yield-bearing assets (YB assets) that can further be used in DeFi protocols, while still helping secure the blockchain through delegated staking. 
-   
-   The K9 Finance DAO is working to bring this fundamental DeFi building block to the Shibarium L2:
-   - increasing the security of the network
-   - increasing the utility of the BONE token
-   - providing a new DeFi primitive, knBONE, to the broader DeFi ecosystem 
-   - driving the adoption of Shibarium and BONE
-   - driving the growth of DeFi protocols on Shibarium
-   
+         ## Background on K9 Finance DAO
+         The DAO's core product is a Liquid Staking Derivative of the BONE token: **knBONE**. BONE is the primary token, powering the Shibarium blockchain. Shibarium is an Ethereum Layer 2 blockchain that is fully compatible with Ethereum. BONE is used as the gas token to pay for Shibarium transactions, as well as used to secure the proof-of-stake (PoS) network through validator staking and delegation.
 
+         Liquid staking derivatives have become a core foundational element of the DeFi ecosystem and are a fundamental element for modern PoS blockchains. They unlock liquidity, creating yield-bearing assets (YB assets) that can further be used in DeFi protocols, while still helping secure the blockchain through delegated staking. 
+         
+         The K9 Finance DAO is working to bring this fundamental DeFi building block to the Shibarium L2:
+         - increasing the security of the network
+         - increasing the utility of the BONE token
+         - providing a new DeFi primitive, knBONE, to the broader DeFi ecosystem 
+         - driving the adoption of Shibarium and BONE
+         - driving the growth of DeFi protocols on Shibarium
+         
 
 
-2. **Current Treasury Composition**:
-   The DAO treasury currently holds approximately $1,000,000 in a mix of assets:
-   - 45% Ether (ETH)
-   - 45% stablecoins (USDC and USDT)
-   - 10% Other (BONE and SHIB tokens)
 
+      2. **Current Treasury Composition**:
+         The DAO treasury currently holds approximately $1,000,000 in a mix of assets:
+         - 45% Ether (ETH)
+         - 45% stablecoins (USDC and USDT)
+         - 10% Other (BONE and SHIB tokens)
 
-3. **Risk Appetite**:
-   The DAO is very risk averse. Over time, through this proposal and subsequent treasury management proposals, the DAO will be able to build a risk profile, risk categories with target investment weights, risk evaluation criteria and monitoring processes, and criteria for balancing treasury investments to meet the DAO's risk tolerance.
 
-   For the initial treasury investment proposal, the DAO will focus on low-risk, stable yield-generating assets and battle-tested DeFi strategies.
+      3. **Risk Appetite**:
+         The DAO is very risk averse. Over time, through this proposal and subsequent treasury management proposals, the DAO will be able to build a risk profile, risk categories with target investment weights, risk evaluation criteria and monitoring processes, and criteria for balancing treasury investments to meet the DAO's risk tolerance.
 
-3. **Liquidity Needs**:
-   Liquidity needs are low. The DAO does not have immediate cash flow needs and can afford to lock up some of its treasury assets in yield-generating strategies; however, the DAO should maintain a portion of its treasury in liquid assets to cover operational expenses and unforeseen circumstances.
+         For the initial treasury investment proposal, the DAO will focus on low-risk, stable yield-generating assets and battle-tested DeFi strategies.
 
-   For the initial treasury investment proposal, the DAO will focus only on highly liquid assets or strategies that allow for quick redemption. Future proposals may consider longer lock-up periods for higher yield opportunities.
+      3. **Liquidity Needs**:
+         Liquidity needs are low. The DAO does not have immediate cash flow needs and can afford to lock up some of its treasury assets in yield-generating strategies; however, the DAO should maintain a portion of its treasury in liquid assets to cover operational expenses and unforeseen circumstances.
 
-4. **Governance and Decision-making**:
-   The DAO currently makes decisions regarding treasury management through a decentralized governance process, where token holders can vote on proposals. The treasury investment proposal will be submitted as a governance proposal for token holders to vote on.
+         For the initial treasury investment proposal, the DAO will focus only on highly liquid assets or strategies that allow for quick redemption. Future proposals may consider longer lock-up periods for higher yield opportunities.
 
-5. **Previous Experiences and Preferences**:
-   No. The DAO has not previously engaged in yield-generating strategies. This is the first treasury investment proposal for the DAO.
+      4. **Governance and Decision-making**:
+         The DAO currently makes decisions regarding treasury management through a decentralized governance process, where token holders can vote on proposals. The treasury investment proposal will be submitted as a governance proposal for token holders to vote on.
 
-6. **Regulatory Considerations**:
-   The DAO is based in Panama and is subject to Panamanian laws and regulations. The DAO will comply with all applicable laws and regulations when engaging in yield-generating activities; however, our legal team has advised that the DAO is not subject to any specific regulatory constraints that would prevent it from engaging in DeFi strategies.
+      5. **Previous Experiences and Preferences**:
+         No. The DAO has not previously engaged in yield-generating strategies. This is the first treasury investment proposal for the DAO.
 
-7. **Technical Capabilities**:
-   The DAO has an elected management council that oversees treasury management. This team has members with high levels of technical expertise and long history of combining DeFi strategies to create complex yield boosting strategies. We are very competent.
+      6. **Regulatory Considerations**:
+         The DAO is based in Panama and is subject to Panamanian laws and regulations. The DAO will comply with all applicable laws and regulations when engaging in yield-generating activities; however, our legal team has advised that the DAO is not subject to any specific regulatory constraints that would prevent it from engaging in DeFi strategies.
 
+      7. **Technical Capabilities**:
+         The DAO has an elected management council that oversees treasury management. This team has members with high levels of technical expertise and long history of combining DeFi strategies to create complex yield boosting strategies. We are very competent.
 
-Integration with Shibarium and the Broader DeFi Ecosystem: Since a key part of K9 Finance DAO's mission is to grow the Shibarium ecosystem and attract users and TVL, do you envision any specific collaborations or integrations with other projects on Shibarium or within the broader Ethereum ecosystem? Understanding any planned or potential partnerships can help highlight opportunities for synergy in the proposal, especially in terms of driving adoption and utility for knBONE and other Shibarium-based DeFi protocols.
 
-This is a great question. We are actively working on partnerships and integrations with other projects on Shibarium and within the broader Ethereum ecosystem; and this will definitely be a key part of our *future* treasury investment strategy; however, for the initial treasury investment proposal, we are only focusing on low-risk ways to start earning yield on the DAO treasury's assets.
+      Integration with Shibarium and the Broader DeFi Ecosystem: Since a key part of K9 Finance DAO's mission is to grow the Shibarium ecosystem and attract users and TVL, do you envision any specific collaborations or integrations with other projects on Shibarium or within the broader Ethereum ecosystem? Understanding any planned or potential partnerships can help highlight opportunities for synergy in the proposal, especially in terms of driving adoption and utility for knBONE and other Shibarium-based DeFi protocols.
 
-# Outline
-Executive Summary
-Proposal Objectives and Benefits
-Background and Rationale
-Proposed Strategies for Yield Generation
-Providing liquidity to AMMs
-Holding Yield Bearing Assets
-Risk Assessment and Management
-Liquidity Management
-Governance and Implementation Process
-Technical and Operational Considerations
-Legal and Regulatory Compliance
-Monitoring and Reporting
+      This is a great question. We are actively working on partnerships and integrations with other projects on Shibarium and within the broader Ethereum ecosystem; and this will definitely be a key part of our *future* treasury investment strategy; however, for the initial treasury investment proposal, we are only focusing on low-risk ways to start earning yield on the DAO treasury's assets.
 
-# Outline 2
+      # Outline
+      Executive Summary
+      Proposal Objectives and Benefits
+      Background and Rationale
+      Proposed Strategies for Yield Generation
+      Providing liquidity to AMMs
+      Holding Yield Bearing Assets
+      Risk Assessment and Management
+      Liquidity Management
+      Governance and Implementation Process
+      Technical and Operational Considerations
+      Legal and Regulatory Compliance
+      Monitoring and Reporting
 
-Introduction:
-Briefly introduce the proposal, its purpose, and its alignment with the DAO's mission and values.
+      # Outline 2
 
-Background:
-Provide context about the current treasury composition, the DAO's core product (knBONE), and the importance of liquid staking derivatives. Highlight the DAO's commitment to the Shibarium ecosystem and its goals to grow value for the BONE token, SHIB token, and DeFi protocols on Shibarium.
+      Introduction:
+      Briefly introduce the proposal, its purpose, and its alignment with the DAO's mission and values.
 
-Proposal Overview:
-Detail the proposed yield-generating strategies, emphasizing low-risk, stable yield-generating assets and battle-tested DeFi strategies. Explain how these strategies align with the DAO's risk aversion and liquidity needs.
+      Background:
+      Provide context about the current treasury composition, the DAO's core product (knBONE), and the importance of liquid staking derivatives. Highlight the DAO's commitment to the Shibarium ecosystem and its goals to grow value for the BONE token, SHIB token, and DeFi protocols on Shibarium.
 
-Strategy Details:
+      Proposal Overview:
+      Detail the proposed yield-generating strategies, emphasizing low-risk, stable yield-generating assets and battle-tested DeFi strategies. Explain how these strategies align with the DAO's risk aversion and liquidity needs.
 
-   1. Providing Liquidity to AMMs:
-   Discuss the benefits and mechanics of providing liquidity to specific AMMs like Curve Finance, Balancer, and Uniswap. Explain the selection criteria for AMMs and liquidity pools.
+      Strategy Details:
 
-   2. Holding Yield-Bearing Assets:
-   Explore the advantages and considerations of holding specific liquid staking derivative tokens (e.g., wstETH, rETH, swETH) and how they support the DAO's focus on liquid staking derivatives.
+         1. Providing Liquidity to AMMs:
+         Discuss the benefits and mechanics of providing liquidity to specific AMMs like Curve Finance, Balancer, and Uniswap. Explain the selection criteria for AMMs and liquidity pools.
 
-Risk Management:
-Outline the DAO's approach to building a risk profile and the measures to monitor and manage risks associated with the proposed strategies. Include criteria for adjusting strategies based on the DAO's evolving risk tolerance.
+         2. Holding Yield-Bearing Assets:
+         Explore the advantages and considerations of holding specific liquid staking derivative tokens (e.g., wstETH, rETH, swETH) and how they support the DAO's focus on liquid staking derivatives.
 
-Implementation Plan:
-Provide a step-by-step plan for implementing the proposed strategies, including technical requirements, timelines, and resource allocation. Discuss the role of the elected management council in overseeing implementation.
+      Risk Management:
+      Outline the DAO's approach to building a risk profile and the measures to monitor and manage risks associated with the proposed strategies. Include criteria for adjusting strategies based on the DAO's evolving risk tolerance.
 
-Financial Projections:
-Present estimates of potential yields from the proposed strategies, taking into account the DAO's current treasury composition and market conditions.
+      Implementation Plan:
+      Provide a step-by-step plan for implementing the proposed strategies, including technical requirements, timelines, and resource allocation. Discuss the role of the elected management council in overseeing implementation.
 
-Governance Process:
-Describe the process for DAO token holders to review, discuss, and vote on the proposal. Include details on how feedback will be incorporated and how the final decision will be communicated.
+      Financial Projections:
+      Present estimates of potential yields from the proposed strategies, taking into account the DAO's current treasury composition and market conditions.
 
-Looking Ahead (new section):
-Briefly touch upon how the DAO envisages future expansions into more complex strategies, partnerships, and integrations. Emphasize that these are part of a long-term vision to further enhance yield generation, aligning with the DAO’s growth and risk management strategies.
+      Governance Process:
+      Describe the process for DAO token holders to review, discuss, and vote on the proposal. Include details on how feedback will be incorporated and how the final decision will be communicated.
 
-Conclusion:
-Summarize the proposal's benefits to the DAO, the Shibarium ecosystem, and the broader DeFi community. Reiterate the proposal's alignment with the DAO's mission and long-term goals.
+      Looking Ahead (new section):
+      Briefly touch upon how the DAO envisages future expansions into more complex strategies, partnerships, and integrations. Emphasize that these are part of a long-term vision to further enhance yield generation, aligning with the DAO’s growth and risk management strategies.
 
-Appendices:
-Include any additional data, analyses, or references that support the proposal.
----
+      Conclusion:
+      Summarize the proposal's benefits to the DAO, the Shibarium ecosystem, and the broader DeFi community. Reiterate the proposal's alignment with the DAO's mission and long-term goals.
 
+      Appendices:
+      Include any additional data, analyses, or references that support the proposal.
+      ---
 
 
-## Short Term
 
-## Long Term
+      ## Short Term
 
-# Investment Philosophy
+      ## Long Term
 
-## Risks
+      # Investment Philosophy
 
-## Investment Risk Profile
+      ## Risks
 
+      ## Investment Risk Profile
 
-# Evaluation
-## KPI Tracking
-## Risks
 
-# Recommended Approach
-treasury.k9safe.eth
+      # Evaluation
+      ## KPI Tracking
+      ## Risks
 
-My thoughts on where we should put the treasury is two fold:
-1. One is making money
-2. The other is brand story.
-3.
-4. Our brand story is that we’re big on Lido and liquid staking. So we should walk the walk there. But I’m sure we can also take some more risk with curve as well maybe their 3pool on Curve for stables
+      # Recommended Approach
+      treasury.k9safe.eth
 
-Requirements for Treasury Plan Proposal:
+      My thoughts on where we should put the treasury is two fold:
+      1. One is making money
+      2. The other is brand story.
+      3.
+      4. Our brand story is that we’re big on Lido and liquid staking. So we should walk the walk there. But I’m sure we can also take some more risk with curve as well maybe their 3pool on Curve for stables
 
-- Steps (swap ETH into Lido for example)
-- Yield farming opportunity
-- Stablecoins on Convex / Aura 
-- Timeline 
-- Expected yield, any lockups, what process redeeming
-- Why we're using this, other treasuries that use this 
-- How we are removing smart contract risk, but what risks are there 
-- Amount we're going to be using, how this fits into our overall budgeting, are there any penalties for early withdraw
+      Requirements for Treasury Plan Proposal:
 
+      - Steps (swap ETH into Lido for example)
+      - Yield farming opportunity
+      - Stablecoins on Convex / Aura 
+      - Timeline 
+      - Expected yield, any lockups, what process redeeming
+      - Why we're using this, other treasuries that use this 
+      - How we are removing smart contract risk, but what risks are there 
+      - Amount we're going to be using, how this fits into our overall budgeting, are there any penalties for early withdraw
 
-## Stablecoins
 
-# Links
-(k9safe.eth | DeBank)[https://debank.com/profile/0xDA4Df6E2121eDaB7c33Ed7FE0f109350939eDA84]
+      ## Stablecoins
 
+      # Links
+      (k9safe.eth | DeBank)[https://debank.com/profile/0xDA4Df6E2121eDaB7c33Ed7FE0f109350939eDA84]
 
-# Junk
 
+      # Junk
 
-    and to secure the . The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
-   
-   
-   The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
-   
-   
-    and to secure the . The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
 
-   The DAO's mission and values can help guide the treasury investment strategy. For example, if the DAO is focused on long-term sustainability, the treasury strategy may prioritize low-risk, stable yield-generating assets. If the DAO is more growth-oriented, it may be more open to higher-risk, higher-reward strategies.
+         and to secure the . The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
+         
+         
+         The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
+         
+         
+         and to secure the . The DAO's mission is to provide a decentralized, trustless, and liquid staking solution for Ethereum 2.0. The DAO's values include transparency, community governance, and sustainability.
 
-   The DAO's mission and values can also help determine the types of assets or projects the treasury should support. For example, if the DAO is focused on supporting decentralized finance (DeFi) projects, the treasury may prioritize investments in DeFi protocols or tokens.
+         The DAO's mission and values can help guide the treasury investment strategy. For example, if the DAO is focused on long-term sustainability, the treasury strategy may prioritize low-risk, stable yield-generating assets. If the DAO is more growth-oriented, it may be more open to higher-risk, higher-reward strategies.
 
-   The DAO's mission and values can also help determine the governance structure for the treasury. For example, if the DAO values transparency and community input, the treasury may be governed by a decentralized governance process that allows token holders to vote on investment decisions.
+         The DAO's mission and values can also help determine the types of assets or projects the treasury should support. For example, if the DAO is focused on supporting decentralized finance (DeFi) projects, the treasury may prioritize investments in DeFi protocols or tokens.
 
-   The DAO's mission and values can also help determine the risk tolerance for the treasury. For example, if the DAO is risk-averse, the treasury may prioritize low-risk, stable yield-generating assets. If the DAO is more risk-tolerant, it may be more open to higher-risk, higher-reward strategies.
+         The DAO's mission and values can also help determine the governance structure for the treasury. For example, if the DAO values transparency and community input, the treasury may be governed by a decentralized governance process that allows token holders to vote on investment decisions.
 
-   Overall, the DAO's mission and values should guide the treasury investment strategy to ensure that it aligns with the DAO's goals and objectives. -->
+         The DAO's mission and values can also help determine the risk tolerance for the treasury. For example, if the DAO is risk-averse, the treasury may prioritize low-risk, stable yield-generating assets. If the DAO is more risk-tolerant, it may be more open to higher-risk, higher-reward strategies.
+
+         Overall, the DAO's mission and values should guide the treasury investment strategy to ensure that it aligns with the DAO's goals and objectives.
